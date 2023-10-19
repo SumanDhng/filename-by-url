@@ -12,7 +12,7 @@ Follow the Prompt to enter the input link range and output range.
 
 - Formatting of the prompt:
 
-    ${\color{lightblue}input\_range}$, ${\color{lightgreen}output\_range}$
+    ${\color{lightblue}input\\_range}$, ${\color{lightgreen}output\\_range}$
 
 > [!NOTE]
 > The input range parameter and output range paramater must be separated using a comma(`,`) and USES the active sheet.
